@@ -1,4 +1,6 @@
 # hello-world
+This is a change for the unauthed mode in Slack
+
 Test repository
 
 Hi!
